@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### If you work with software engineering, why your Github is not active?
+We use Gitlab here, check my [profile](https://gitlab.com/GJakobi) there.
+
+
 <!--
 **GJakobi/GJakobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
