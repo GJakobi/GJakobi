@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there 🏊‍♂️
 
-### If you work with software engineering, why your Github is not active?
-We use Gitlab here, check my [profile](https://gitlab.com/GJakobi) there.
+## About me
+I'm passionate about problem-solving and computer science stuff. Experience developing scalable software using modern technologies. Capable of learning new concepts quickly and using them to generate value. I work mainly with NodeJS, SQL, and Typescript, but I like to study C/C++ and other programming-related things as a hobby. Also, I really like swimming.
 
-
+Please note that my GitHub is not very active as I primarily use GitLab for my professional work at my company, check my [profile](https://gitlab.com/GJakobi) there.
 <!--
 **GJakobi/GJakobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
