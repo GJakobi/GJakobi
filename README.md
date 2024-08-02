@@ -1,5 +1,7 @@
 ## Hi there 🏊‍♂️
 
+_Veni, Vidi, Codici Fixi._ - "I came, I saw, I fixed the code."
+
 ## About me
 I'm passionate about problem-solving and computer science stuff. Experience developing scalable software using modern technologies. Capable of learning new concepts quickly and using them to generate value. I work mainly with NodeJS, SQL, and Typescript, but I like to study C/C++ and other programming-related things as a hobby. Also, I really like swimming.
 
